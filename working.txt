@@ -1,0 +1,5 @@
+//it will generate your result of all semester you cleared till now with spi and cpi
+//you need give student subject wise garde data in a excel sheet
+//it also upload sign and seal of respective authorities
+//for running in local machine open the terminal and write pyhton manage.py runserver
+it will give you link of local host copy and paste it in your favorite browser to see working  
